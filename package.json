@@ -1,0 +1,23 @@
+{
+  "name": "jest_test01",
+  "version": "1.0.0",
+  "description": "Jest Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noOdin1/jest_test01.git"
+  },
+  "author": "noOdin1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noOdin1/jest_test01/issues"
+  },
+  "homepage": "https://github.com/noOdin1/jest_test01#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
+    "jest": "^30.3.0"
+  }
+}

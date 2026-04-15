@@ -15,4 +15,4 @@ function div(a, b) {
 }
 
 export { sum, sub, mul, div };
-// module.exports sum;
+// module.exports = sum;
